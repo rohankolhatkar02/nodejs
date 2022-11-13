@@ -1,0 +1,63 @@
+.main {
+    background-color: rgb(223, 228, 233);
+    padding: 20px;
+    font-family: 'Helvetica', serif;
+    box-shadow: 5px 5px 7px 5px #270101;
+}
+
+.main h1 {
+    background-color: aliceblue;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Helvetica', serif;
+}
+
+input {
+    justify-content: center;
+    position: relative;
+    font-family: 'Helvetica', serif;
+    width: 100%;
+    font-size: 20px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: none;
+    border-bottom: 2px solid #170e49;
+}
+
+input[type=submit] {
+    font-family: 'Helvetica', serif;
+    width: 100%;
+    background-color: #767474;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    margin: 4px 2px;
+    border-radius: 10px;
+}
+
+body {
+    background-image: url("rest.jpg");
+    background-color: #000000;
+    background-repeat:no-repeat;
+    background-size:cover;  
+   }
+
+div.container_signup {
+    
+    position: absolute;
+    top: 200px;
+    right: 390px;
+    width: 1000px;
+    height: 270px;
+  }
+
+
+  div.containernav-fluid {
+    background-color: red;
+    box-shadow: 5px 5px 7px 5px #000000;
+    position: absolute;
+    top: 120px;
+    right: 800px;
+    width: 220px;
+    height: 60px;
+  }
